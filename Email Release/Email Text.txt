@@ -1,0 +1,153 @@
+Copy of <RE: FISH 2007/03 Lot 1 Celtic Sea report> attached.
+
+
+Attached Message
+
+From:	"Mike Armstrong (Cefas)" <Mike.Armstrong@cefas.co.uk>
+To:	"Sofie Nimmegeers" <sofie.nimmegeers@ilvo.vlaanderen.be>
+Cc:	"Norman Graham" <norman.graham@marine.ie>, <Eoghan.kelly@marine.ie>, "LAURANS" <Martial.Laurans@ifremer.fr>
+Subject:	RE: FISH 2007/03 Lot 1 Celtic Sea report
+Date:	Thu, 25 Mar 2010 13:15:56 -0000
+Content-Type: 	multipart/mixed
+
+Sofie, </o:p>
+
+ </o:p>
+
+I’ve attached the draft report with the UK Celtic Sea sections completed so far. It’s still a work in progress (though hopefully pretty much completed) and I need to get feedback from the industry partner. However feel free to cannibalise any text. Its already over 10 MB with just my figures in, so it is probably going to end up a huge file (will be smaller as a pdf). If you are tempted to add any photos, make sure they are at suitably low resolution (e.g. 200 dpi. on the printed page). </o:p>
+
+ </o:p>
+
+Am copying to Norman, Eoghan and Martial so you can see what has been done. I will need your contributions very soon…… </o:p>
+
+  </o:p>
+
+We will need to have a conspicuous statement at the start of the report that it needs to be viewed in colour.  I suspect colour-blind readers will struggle a bit….. </o:p>
+
+ </o:p>
+
+Mike </o:p>
+
+ </o:p>
+
+From: Sofie Nimmegeers [mailto:sofie.nimmegeers@ilvo.vlaanderen.be]
+Sent: 24 March 2010 11:19
+To: Mike Armstrong (Cefas)
+Subject: RE: FISH 2007/03 Lot 1 Celtic Sea report </o:p>
+
+ </o:p>
+
+Dear Mike, </o:p>
+
+ </o:p>
+
+Are the effort plots already available? </o:p>
+
+Would it be possible for you to write the ‘material and methods’ part for the species and effort plots? (since this part is the same for all countries) </o:p>
+
+ </o:p>
+
+Best regards, </o:p>
+
+Sofie and Sofie </o:p>
+
+  </o:p>
+
+ </o:p>
+
+From: Mike Armstrong (Cefas) [mailto:Mike.Armstrong@cefas.co.uk]
+Sent: 17 March 2010 17:20
+To: Sofie Nimmegeers
+Subject: RE: FISH 2007/03 Lot 1 Celtic Sea report </o:p>
+
+ </o:p>
+
+Hi Sofie & Sofie, </o:p>
+
+ </o:p>
+
+Please find attached the bubble plots from your data. I grouped the species the same as for the other countries otherwise it would be rather confusing, and lumped all vessel LOA classes. The girl who is doing the plots has hardly any time for this work so I hope you do not want any major changes, especially if it means reworking the other country’s data to be consistent! </o:p>
+
+ </o:p>
+
+We extracted UK effort data for <15m vessels as days fished rather than kW days for the rectangle effort plots. Do your hours convert directly into days using a constant multiplier? </o:p>
+
+ </o:p>
+
+ </o:p>
+
+ </o:p>
+
+Mike </o:p>
+
+ </o:p>
+
+From: Sofie Nimmegeers [mailto:sofie.nimmegeers@ilvo.vlaanderen.be]
+Sent: 11 March 2010 13:47
+To: Mike Armstrong (Cefas)
+Subject: FISH 2007/03 Lot 1 Celtic Sea report </o:p>
+
+ </o:p>
+
+ </o:p>
+
+Dear Mike, </o:p>
+
+ </o:p>
+
+In attachment you can find our data for the catch composition plots and the effort plots. </o:p>
+
+ </o:p>
+
+Some remarks: </o:p>
+
+ </o:p>
+
+·         We cannot provide metier codes because of an error in our database </o:p>
+
+·         The mesh size for the gear code TBB is 80 mm and for OTB >= 100 mm </o:p>
+
+·         We didn’t merge our species according to your classification because it is not fully applicable for the Belgian catch composition. We tried to assign different colours to the species according to your classification. </o:p>
+
+·         The effort is expressed as fishing hours and KW/days   </o:p>
+
+ </o:p>
+
+ </o:p>
+
+Kind regards, </o:p>
+
+ </o:p>
+
+Sofie and Sofie </o:p>
+
+ </o:p>
+
+ </o:p>
+
+Nimmegeers Sofie
+Research scientist </o:p>
+
+ILVO - Fishery
+Ankerstraat 1
+B-8400 Oostende
+Belgium
+
+Tel: + 32 (0)59 569.806 (Direct) </o:p>
+
+       + 32 59 34 22 50 (Operator)
+Fax: + 32 (0)59 330.629
+ILVO website: www.ilvo.vlaanderen.be </o:p>
+
+ </o:p>
+
+  </o:p>
+
+*********************************************************************************** </o:p>
+
+This email and any attachments are intended for the named recipient only. Its unauthorised use, distribution, disclosure, storage or copying is not permitted. If you have received it in error, please destroy all copies and notify the sender. In messages of a non-business nature, the views and opinions expressed are the author's own and do not necessarily reflect those of the organisation from which it is sent. All emails may be subject to monitoring. </o:p>
+
+*********************************************************************************** </o:p>
+
+  </o:p>
+

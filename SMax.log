@@ -1,0 +1,51 @@
+*** Log started on Thursday February 10, 2011 at 16:03:41
+*** 
+*** Operating System: Windows XP Service Pack 3 version 5.1.2600
+*** 
+*** Directory: ""
+***  Log File: "\SMax.log"
+*** C:\WINNT\System32\Drivers\ADIHDAud.Sys - 5.10.1.4220
+*** C:\WINNT\System32\Drivers\SenFilt.Sys - 5.10.0.3521
+*** C:\WINNT\System32\Drivers\AEAudio.Sys - 4.0.1.14
+*** 
+*** C:\WINNT\System32\Drivers\SF.Sys - target module NOT found!
+*** C:\Program Files\Analog Devices\Core\SMWDMIF.DLL - (LOADED) 6.00.00.12
+***   ?(WARNING) loaded version differs from target directory version!
+*** 
+*** C:\WINNT\System32\Drivers\SF.Sys - missing! - ?(ERROR)
+*** 
+*** Log Level: 0.0000
+*** 
+[DLL01] 
+[DLL01] INST01 - C:\Program Files\Analog Devices\Core\smax4pnp.exe (V6.0.0.20)
+[DLL01] 
+[DLL01] ==  InitInterface  ========================================
+[DLL01]           mode: 3.2
+[DLL01]   platform sid: 11D41981-101402F6
+[DLL01]   capabilities: 00004897h
+[DLL01]   action flags: 00000000h
+[DLL01]       bitfield: 00000000h
+[DLL01]           conf: FFFF750Ch
+[DLL01] ===========================================================
+[DLL01] 
+[APP01] 
+[APP01] InitDLL:  Jack Count: 8   
+[APP01] InitDLL:  ================== JackInfo table ==================
+[APP01] CID   PID   uFCBits       uCurrFC      uInhibit   uVRef       uGroupIdx   uJackCfg     uColor   uXPos   uYPos
+[APP01] =============================================================================================================
+[APP01]  0     0    0x00001000    0x00000000      15        0             0      0x0221401F       0       0       0        HP 
+[APP01]  0     1    0x00001001    0x00000000      15        0             0      0x01014010       0       0       0        Front  HP 
+[APP01]  0     2    0x00000400    0x00000000      15        0             0      0x02A19040       0       0       0        AuxIn 
+[APP01]  0     3    0x00000800    0x00000000      15        0             0      0x01813041       0       0       0        MonoOut 
+[APP01]  0     4    0x00001000    0x00000000      15        0             0      0x0221401F       0       0       0        HP 
+[APP01]  0     5    0x00001000    0x00000000      15        0             0      0x0221401F       0       0       0        HP 
+[APP01]  0     6    0x00001000    0x00000000      15        0             0      0x0221401F       0       0       0        HP 
+[APP01]  0     7    0x00001000    0x00000000      15        0             0      0x0221401F       0       0       0        HP 
+[APP01] =============================================================================================================
+[APP01] 
+[APP01]  uNameIdx    uJackCnt    uCurrSpkCfg      uPrevSpkCfg      uBgColor    bBorder
+[APP01] ==============================================================================
+[APP01] ==============================================================================
+[APP01]  
+[APP01] ================== PNP Initialization Complete ==================== 
+[APP01]  
