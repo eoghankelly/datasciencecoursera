@@ -1,3 +1,5 @@
 [user]
 	name = Eoghan Kelly
 	email = eoghan.kelly@marine.ie
+[http]
+	proxy = http[s]://myMIusername:mypassword@10.0.5.55:80
